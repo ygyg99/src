@@ -1,0 +1,10 @@
+go 1.20
+
+use (
+	.
+	./blueself
+	./ratelimit_demo
+	./docker_demo
+	./111bluebell
+	./mapreduce
+)

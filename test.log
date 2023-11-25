@@ -1,0 +1,4 @@
+{"level":"debug","ts":1695867435.5007186,"msg":"Trying to hit GET request for www.sogo.com"}
+{"level":"error","ts":1695867435.501231,"msg":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"debug","ts":1695867435.501231,"msg":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"info","ts":1695867435.6327415,"msg":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
